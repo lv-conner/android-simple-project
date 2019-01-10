@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteServiceClient</string>
+    <string name="invoke_service">Invoke Remote Service</string>
+</resources>
